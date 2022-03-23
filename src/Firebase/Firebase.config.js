@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
+  apiKey: "AIzaSyBylqNOB76YLuctzRzxIyygk8SzwxjanXE",
+  authDomain: "redux-todo-1747d.firebaseapp.com",
+  projectId: "redux-todo-1747d",
+  storageBucket: "redux-todo-1747d.appspot.com",
+  messagingSenderId: "567028141865",
+  appId: "1:567028141865:web:8f3c21b4f21ea896cef138"
 };
 
 export default firebaseConfig;
